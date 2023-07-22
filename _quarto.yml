@@ -1,0 +1,74 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Business in the AI Age: The Dawn of a New Era in Enterprise"
+  reader-mode: true
+
+  page-footer:
+    left: |
+      Business in the AI Age: The Dawn of a New Era in Enterprise was written by Steve Ewing and OpenAI's chat gpt-4.0
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  cover-image: cover.jpg
+  favicon: cover.jpg
+  site-url: https://stewing.co/
+  repo-url: https://github.com/stewing-co/r4ds/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - intro.qmd
+
+    - part: part_1.qmd
+      chapters:
+        - chapter_1.qmd
+        - chapter_2.qmd
+        - chapter_3.qmd
+        - chapter_4.qmd
+        - chapter_5.qmd
+        
+    - part: part_2.qmd
+      chapters:       
+        - chapter_6.qmd
+        - chapter_7.qmd
+        - chapter_8.qmd
+        - chapter_9.qmd
+        - chapter_10.qmd
+        
+    - part: part_3.qmd
+      chapters:
+        - chapter_11.qmd
+        - chapter_12.qmd
+        - chapter_13.qmd
+        - chapter_14.qmd
+        - chapter_15.qmd
+        
+    - part: part_4.qmd
+      chapters:     
+        - chapter_16.qmd
+        - chapter_17.qmd
+        - chapter_18.qmd
+        - chapter_19.qmd
+        - chapter_20.qmd
+
+    - part: part_5.qmd
+      chapters:
+        - chapter_21.qmd
+        - chapter_22.qmd
+        - chapter_23.qmd
+        - chapter_24.qmd
+        - chapter_25.qmd
+        
+format:
+  html:
+    theme:
+      - cosmo
+      - h_ai.scss
+    code-link: true
+
+    author-meta: "Steve Ewing"
+    callout-appearance: simple
+
+editor: visual

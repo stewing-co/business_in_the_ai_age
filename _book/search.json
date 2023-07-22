@@ -1,0 +1,758 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Business in the AI Age: The Dawn of a New Era in Enterprise",
+    "section": "",
+    "text": "Welcome\nThis is the website for the working edition of “Business in the AI Age: The Dawn of a New Era in Enterprise”.\n\n\n\nMid-Journey Prompt: Imagine an amalgamation of the human mind and the subtle contours of an artificial intelligence network in a delicate dance. The medium should echo the complexities of a Salvador Dali painting, with its surrealism capturing the intricate relationship between biological and artificial intelligence. Mimic the lighting of Rembrandt’s paintings - the chiaroscuro technique that illuminates the focal points while leaving the surroundings in relative obscurity, highlighting the drama and depth of our exploration. Utilize a color palette that echoes the cool blues and stark whites of modern technology contrasted with the warm reds and oranges of biological life. The composition should be as multi - layered as a fractal, drawing the viewer into the vast networks of neural connections and silicon paths, a nod to the Fibonacci sequence’s grandeur in nature and mathematics. with perfect facial symetry –ar 8:10\n\n\nI’m writing this book to teach myself how best to do a job that doesn’t yet exist, but that I’m sure will exist soon. It’s easy to show why. Let’s start with the PEMPS:\n\nProblem: The misinterpretation of AI and machine learning as the same, along with the inefficiency of traditional data processing and customer service methods in today’s fast-paced business world.\nEnvironment: The rapidly evolving field of AI, especially the introduction of generative models like GPT-4, which are capable of performing tasks beyond traditional predictive analytics.\nMethod: Implementing GPT-4 and other generative AI models in business operations to enhance decision-making, improve customer service, ignite innovation, and streamline project management.\nProduct: Enhanced operational efficiency, improved customer satisfaction, increased innovation, and superior strategic planning, setting our company apart as a leader in adopting AI advancements.\nSolution: Strategic leadership to align AI implementation with business objectives, ensuring regulatory compliance and creating an environment for teams to leverage AI while maintaining creativity.\n\nThere are soon going to be thousands of VPs of AI some such and if you read this you will be as prepared as I can make us.\n\nThis website is and will always be free, it’s a product of my work with an AI that was trained by us all I didn’t already know most of this stuff I’m learning from it as I teach it to teach me. Since it’s only tangentially mine for now I will license it under CC BY-NC-ND 3.0 License. If you’d like a physical copy of the book, you can order it eventually.\nIf you appreciate reading the book for free and would like to give back, please make a donation to a charity in my name.\nIf you speak another language, you might be interested in the not yet available translations:\n\nSpanish\nItalian\nTurkish\n\nI’m ripping off R4DS’s Contributor Code of Conduct along with so much else of theirs. By contributing to this book, you agree to abide by the same terms they set forth."
+  },
+  {
+    "objectID": "intro.html#unveiling-the-ai-journey",
+    "href": "intro.html#unveiling-the-ai-journey",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.1 Unveiling the AI Journey",
+    "text": "1.1 Unveiling the AI Journey\nWelcome to the beginning of a thrilling expedition. If you’re here, you’re probably as intrigued as I am about the immense potential that Artificial Intelligence (AI) holds for businesses. \nMy fascination with AI led me to engage with one of the most advanced AI available today - OpenAI’s GPT-4. And now, I’m embarking on a journey to explore and share the intricate dimensions of AI applications across various facets of the enterprise. I’d like you to join me in this exciting endeavor. From finance and planning to marketing and beyond, every domain of business stands on the brink of an AI revolution. AI is no longer confined to the realm of tech companies or huge conglomerates. It’s a tool for every business, no matter its size or sector, that is willing to embrace innovation and move forward with the times. \nBut this exploration isn’t just about AI. It’s about the future of our businesses - a future where human intelligence and artificial intelligence work together, creating innovative solutions, unlocking unprecedented efficiencies, and redefining customer experiences. \nIn this book, I’ll dive into the practical applications of AI in business operations. Drawing insights from GPT-4 and other AI resources, I’ll discuss how AI can enhance decision-making, improve customer service, ignite innovation, and streamline project management. You’ll also see a focus on real-world examples and use-cases. I firmly believe that theory is best understood when presented hand-in-hand with practice. The goal? To help you understand and harness the transformative power of AI in your business context. We’ll also have an open discussion about the challenges AI presents, from ethical concerns to regulatory compliance, and how strategic leadership can effectively navigate these. I’m thrilled to start this journey and I invite you to come along. With each chapter, we’ll delve deeper into the fascinating world of AI in business, learning, growing, and innovating together. Let’s embrace the future and redefine our businesses with AI. Stay tuned for more insights and get ready to harness the power of AI in your enterprise."
+  },
+  {
+    "objectID": "intro.html#the-ai-impact-exploring-the-transformative-power-of-ai",
+    "href": "intro.html#the-ai-impact-exploring-the-transformative-power-of-ai",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.2 The AI Impact: Exploring the Transformative Power of AI",
+    "text": "1.2 The AI Impact: Exploring the Transformative Power of AI\nArtificial Intelligence, once a concept of science fiction, has swiftly turned into a tangible reality that is transforming the business landscape across the globe. Businesses are not just integrating AI into their systems; they are embedding it into their core strategies to amplify their capabilities. To understand this transformative power, we must first explore the fundamentals of AI. In essence, AI is a branch of computer science that aims to create systems capable of performing tasks that would normally require human intelligence. These tasks can range from understanding natural language and recognizing patterns to problem-solving and decision-making. \nTypes of AI can be categorized into Machine Learning (ML), where systems can learn and improve from experience, Deep Learning (DL), which is a subset of ML and mimics the human brain’s workings using artificial neural networks, and Natural Language Processing (NLP), where machines understand, interpret, and generate human language. There’s also Robotics Process Automation (RPA), which automates routine tasks, and Computer Vision, where machines can interpret and understand visual data.\nThese AI applications are not confined to a single domain. They have found their use-cases across various aspects of businesses, from customer service and sales to operations and strategic planning. Companies are leveraging AI-powered predictive analytics for decision-making, ML algorithms for customer segmentation in marketing, NLP-powered chatbots for customer service, and DL models for demand forecasting in supply chain management.\nFurthermore, the AI revolution is not exclusive to tech companies or large conglomerates. Small and medium-sized enterprises (SMEs) are also tapping into the potential of AI to optimize their operations, enhance their products and services, and deliver a superior customer experience.\nThe adoption of AI has proven to be a game-changer. Businesses that have embraced AI are witnessing improved efficiencies, reduced operational costs, increased customer satisfaction, and, ultimately, higher profits. This transformative power of AI is not just reshaping individual businesses but is reshaping entire industries and the global business ecosystem as a whole.\nIn the coming sections, we will explore in detail how AI is making this large-scale impact across different sectors and business functions, and how your business can harness its potential for a sustainable competitive edge. We will also delve into the challenges that come with AI adoption and discuss strategies to navigate this exciting, yet complex, landscape effectively.\n\n\n\nMid-Journey Prompt: A digitally-rendered collage that integrates iconic symbols of artificial intelligence such as neural networks, deep learning models, and machine learning algorithms, presented in a dynamic, tech-inspired style. The use of bold colors, sharp contrasts, and a wide-angle lens composition brings out the myriad facets of AI and its transformative impact on the business world."
+  },
+  {
+    "objectID": "intro.html#ai-across-sectors-a-cross-industry-impact---survey-of-ai-applications-across-various-business-sectors-demonstrating-how-ai-is-reshaping-industries-from-healthcare-to-retail-manufacturing-to-finance-and-beyond.",
+    "href": "intro.html#ai-across-sectors-a-cross-industry-impact---survey-of-ai-applications-across-various-business-sectors-demonstrating-how-ai-is-reshaping-industries-from-healthcare-to-retail-manufacturing-to-finance-and-beyond.",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.3 AI Across Sectors: A Cross-Industry Impact - Survey of AI applications across various business sectors, demonstrating how AI is reshaping industries from healthcare to retail, manufacturing to finance, and beyond.",
+    "text": "1.3 AI Across Sectors: A Cross-Industry Impact - Survey of AI applications across various business sectors, demonstrating how AI is reshaping industries from healthcare to retail, manufacturing to finance, and beyond.\n\n\n\nMid-Journey Prompt: A digital, vector art-style world map, with sectors and industries symbolized by vibrant, pop-art-inspired icons. Emerging from this colorful tapestry, 3D rendered AI symbols represent the pervasiveness of artificial intelligence across global sectors."
+  },
+  {
+    "objectID": "intro.html#ai-enhancing-business-functions",
+    "href": "intro.html#ai-enhancing-business-functions",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.4 AI Enhancing Business Functions",
+    "text": "1.4 AI Enhancing Business Functions\nAn in-depth look at how AI can enhance specific business functions such as marketing, sales, customer service, human resources, finance, and supply chain management. Real-world examples to illustrate the transformative power of AI in these functions.\n\n\n\nMid-Journey Prompt: A dynamic, digitally-rendered image that showcases a complex system of gears, each representing a different business function. Within these gears, AI elements are interwoven, symbolizing how AI enhances and optimizes these functions."
+  },
+  {
+    "objectID": "intro.html#ai-and-innovation",
+    "href": "intro.html#ai-and-innovation",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.5 AI and Innovation",
+    "text": "1.5 AI and Innovation\nFuelling the Future - Discussing how AI is driving innovation by enabling new business models, products, and services, and transforming customer experiences. Highlighting successful AI innovation stories."
+  },
+  {
+    "objectID": "intro.html#the-challenges-navigating-the-ai-landscape",
+    "href": "intro.html#the-challenges-navigating-the-ai-landscape",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.6 The Challenges: Navigating the AI Landscape",
+    "text": "1.6 The Challenges: Navigating the AI Landscape\nUnderstanding the key challenges businesses face in implementing AI, such as data privacy issues, ethical concerns, skill gaps, and integration difficulties. Practical tips and strategies for overcoming these challenges."
+  },
+  {
+    "objectID": "intro.html#embracing-ai-the-road-ahead",
+    "href": "intro.html#embracing-ai-the-road-ahead",
+    "title": "1  Introduction: Harnessing AI for Business",
+    "section": "1.7 Embracing AI: The Road Ahead",
+    "text": "1.7 Embracing AI: The Road Ahead\nA forward-looking discussion on how businesses can embrace AI to drive growth, efficiency, and innovation. Tips for building an AI strategy and fostering an AI-ready culture."
+  },
+  {
+    "objectID": "chapter_1.html#the-theory-of-ai-in-decision-making",
+    "href": "chapter_1.html#the-theory-of-ai-in-decision-making",
+    "title": "2  Chapter 1: AI and Strategic Decision Making",
+    "section": "2.1 The Theory of AI in Decision Making",
+    "text": "2.1 The Theory of AI in Decision Making"
+  },
+  {
+    "objectID": "chapter_1.html#exploring-ai-capabilities-in-decision-making",
+    "href": "chapter_1.html#exploring-ai-capabilities-in-decision-making",
+    "title": "2  Chapter 1: AI and Strategic Decision Making",
+    "section": "2.2 Exploring AI Capabilities in Decision Making",
+    "text": "2.2 Exploring AI Capabilities in Decision Making"
+  },
+  {
+    "objectID": "chapter_1.html#real-world-use-cases",
+    "href": "chapter_1.html#real-world-use-cases",
+    "title": "2  Chapter 1: AI and Strategic Decision Making",
+    "section": "2.3 Real-world Use-cases",
+    "text": "2.3 Real-world Use-cases"
+  },
+  {
+    "objectID": "chapter_1.html#challenges-and-solutions",
+    "href": "chapter_1.html#challenges-and-solutions",
+    "title": "2  Chapter 1: AI and Strategic Decision Making",
+    "section": "2.4 Challenges and Solutions",
+    "text": "2.4 Challenges and Solutions"
+  },
+  {
+    "objectID": "chapter_2.html#section",
+    "href": "chapter_2.html#section",
+    "title": "3  Chapter 2:",
+    "section": "3.1 ",
+    "text": "3.1"
+  },
+  {
+    "objectID": "chapter_2.html#section-1",
+    "href": "chapter_2.html#section-1",
+    "title": "3  Chapter 2:",
+    "section": "3.2 ",
+    "text": "3.2"
+  },
+  {
+    "objectID": "chapter_2.html#section-2",
+    "href": "chapter_2.html#section-2",
+    "title": "3  Chapter 2:",
+    "section": "3.3 ",
+    "text": "3.3"
+  },
+  {
+    "objectID": "chapter_2.html#section-3",
+    "href": "chapter_2.html#section-3",
+    "title": "3  Chapter 2:",
+    "section": "3.4 ",
+    "text": "3.4"
+  },
+  {
+    "objectID": "chapter_3.html#section",
+    "href": "chapter_3.html#section",
+    "title": "4  Chapter 3:",
+    "section": "4.1 ",
+    "text": "4.1"
+  },
+  {
+    "objectID": "chapter_3.html#section-1",
+    "href": "chapter_3.html#section-1",
+    "title": "4  Chapter 3:",
+    "section": "4.2 ",
+    "text": "4.2"
+  },
+  {
+    "objectID": "chapter_3.html#section-2",
+    "href": "chapter_3.html#section-2",
+    "title": "4  Chapter 3:",
+    "section": "4.3 ",
+    "text": "4.3"
+  },
+  {
+    "objectID": "chapter_3.html#section-3",
+    "href": "chapter_3.html#section-3",
+    "title": "4  Chapter 3:",
+    "section": "4.4 ",
+    "text": "4.4"
+  },
+  {
+    "objectID": "chapter_4.html#section",
+    "href": "chapter_4.html#section",
+    "title": "5  Chapter 4:",
+    "section": "5.1 ",
+    "text": "5.1"
+  },
+  {
+    "objectID": "chapter_4.html#section-1",
+    "href": "chapter_4.html#section-1",
+    "title": "5  Chapter 4:",
+    "section": "5.2 ",
+    "text": "5.2"
+  },
+  {
+    "objectID": "chapter_4.html#section-2",
+    "href": "chapter_4.html#section-2",
+    "title": "5  Chapter 4:",
+    "section": "5.3 ",
+    "text": "5.3"
+  },
+  {
+    "objectID": "chapter_4.html#section-3",
+    "href": "chapter_4.html#section-3",
+    "title": "5  Chapter 4:",
+    "section": "5.4 ",
+    "text": "5.4"
+  },
+  {
+    "objectID": "chapter_5.html#section",
+    "href": "chapter_5.html#section",
+    "title": "6  Chapter 5:",
+    "section": "6.1 ",
+    "text": "6.1"
+  },
+  {
+    "objectID": "chapter_5.html#section-1",
+    "href": "chapter_5.html#section-1",
+    "title": "6  Chapter 5:",
+    "section": "6.2 ",
+    "text": "6.2"
+  },
+  {
+    "objectID": "chapter_5.html#section-2",
+    "href": "chapter_5.html#section-2",
+    "title": "6  Chapter 5:",
+    "section": "6.3 ",
+    "text": "6.3"
+  },
+  {
+    "objectID": "chapter_5.html#section-3",
+    "href": "chapter_5.html#section-3",
+    "title": "6  Chapter 5:",
+    "section": "6.4 ",
+    "text": "6.4"
+  },
+  {
+    "objectID": "chapter_6.html#section",
+    "href": "chapter_6.html#section",
+    "title": "7  Chapter 6:",
+    "section": "7.1 ",
+    "text": "7.1"
+  },
+  {
+    "objectID": "chapter_6.html#section-1",
+    "href": "chapter_6.html#section-1",
+    "title": "7  Chapter 6:",
+    "section": "7.2 ",
+    "text": "7.2"
+  },
+  {
+    "objectID": "chapter_6.html#section-2",
+    "href": "chapter_6.html#section-2",
+    "title": "7  Chapter 6:",
+    "section": "7.3 ",
+    "text": "7.3"
+  },
+  {
+    "objectID": "chapter_6.html#section-3",
+    "href": "chapter_6.html#section-3",
+    "title": "7  Chapter 6:",
+    "section": "7.4 ",
+    "text": "7.4"
+  },
+  {
+    "objectID": "chapter_7.html#section",
+    "href": "chapter_7.html#section",
+    "title": "8  Chapter 7:",
+    "section": "8.1 ",
+    "text": "8.1"
+  },
+  {
+    "objectID": "chapter_7.html#section-1",
+    "href": "chapter_7.html#section-1",
+    "title": "8  Chapter 7:",
+    "section": "8.2 ",
+    "text": "8.2"
+  },
+  {
+    "objectID": "chapter_7.html#section-2",
+    "href": "chapter_7.html#section-2",
+    "title": "8  Chapter 7:",
+    "section": "8.3 ",
+    "text": "8.3"
+  },
+  {
+    "objectID": "chapter_7.html#section-3",
+    "href": "chapter_7.html#section-3",
+    "title": "8  Chapter 7:",
+    "section": "8.4 ",
+    "text": "8.4"
+  },
+  {
+    "objectID": "chapter_8.html#section",
+    "href": "chapter_8.html#section",
+    "title": "9  Chapter 8:",
+    "section": "9.1 ",
+    "text": "9.1"
+  },
+  {
+    "objectID": "chapter_8.html#section-1",
+    "href": "chapter_8.html#section-1",
+    "title": "9  Chapter 8:",
+    "section": "9.2 ",
+    "text": "9.2"
+  },
+  {
+    "objectID": "chapter_8.html#section-2",
+    "href": "chapter_8.html#section-2",
+    "title": "9  Chapter 8:",
+    "section": "9.3 ",
+    "text": "9.3"
+  },
+  {
+    "objectID": "chapter_8.html#section-3",
+    "href": "chapter_8.html#section-3",
+    "title": "9  Chapter 8:",
+    "section": "9.4 ",
+    "text": "9.4"
+  },
+  {
+    "objectID": "chapter_9.html#section",
+    "href": "chapter_9.html#section",
+    "title": "10  Chapter 9:",
+    "section": "10.1 ",
+    "text": "10.1"
+  },
+  {
+    "objectID": "chapter_9.html#section-1",
+    "href": "chapter_9.html#section-1",
+    "title": "10  Chapter 9:",
+    "section": "10.2 ",
+    "text": "10.2"
+  },
+  {
+    "objectID": "chapter_9.html#section-2",
+    "href": "chapter_9.html#section-2",
+    "title": "10  Chapter 9:",
+    "section": "10.3 ",
+    "text": "10.3"
+  },
+  {
+    "objectID": "chapter_9.html#section-3",
+    "href": "chapter_9.html#section-3",
+    "title": "10  Chapter 9:",
+    "section": "10.4 ",
+    "text": "10.4"
+  },
+  {
+    "objectID": "chapter_10.html#section",
+    "href": "chapter_10.html#section",
+    "title": "11  Chapter 10:",
+    "section": "11.1 ",
+    "text": "11.1"
+  },
+  {
+    "objectID": "chapter_10.html#section-1",
+    "href": "chapter_10.html#section-1",
+    "title": "11  Chapter 10:",
+    "section": "11.2 ",
+    "text": "11.2"
+  },
+  {
+    "objectID": "chapter_10.html#section-2",
+    "href": "chapter_10.html#section-2",
+    "title": "11  Chapter 10:",
+    "section": "11.3 ",
+    "text": "11.3"
+  },
+  {
+    "objectID": "chapter_10.html#section-3",
+    "href": "chapter_10.html#section-3",
+    "title": "11  Chapter 10:",
+    "section": "11.4 ",
+    "text": "11.4"
+  },
+  {
+    "objectID": "chapter_11.html#section",
+    "href": "chapter_11.html#section",
+    "title": "12  Chapter 11:",
+    "section": "12.1 ",
+    "text": "12.1"
+  },
+  {
+    "objectID": "chapter_11.html#section-1",
+    "href": "chapter_11.html#section-1",
+    "title": "12  Chapter 11:",
+    "section": "12.2 ",
+    "text": "12.2"
+  },
+  {
+    "objectID": "chapter_11.html#section-2",
+    "href": "chapter_11.html#section-2",
+    "title": "12  Chapter 11:",
+    "section": "12.3 ",
+    "text": "12.3"
+  },
+  {
+    "objectID": "chapter_11.html#section-3",
+    "href": "chapter_11.html#section-3",
+    "title": "12  Chapter 11:",
+    "section": "12.4 ",
+    "text": "12.4"
+  },
+  {
+    "objectID": "chapter_12.html#section",
+    "href": "chapter_12.html#section",
+    "title": "13  Chapter 12:",
+    "section": "13.1 ",
+    "text": "13.1"
+  },
+  {
+    "objectID": "chapter_12.html#section-1",
+    "href": "chapter_12.html#section-1",
+    "title": "13  Chapter 12:",
+    "section": "13.2 ",
+    "text": "13.2"
+  },
+  {
+    "objectID": "chapter_12.html#section-2",
+    "href": "chapter_12.html#section-2",
+    "title": "13  Chapter 12:",
+    "section": "13.3 ",
+    "text": "13.3"
+  },
+  {
+    "objectID": "chapter_12.html#section-3",
+    "href": "chapter_12.html#section-3",
+    "title": "13  Chapter 12:",
+    "section": "13.4 ",
+    "text": "13.4"
+  },
+  {
+    "objectID": "chapter_13.html#section",
+    "href": "chapter_13.html#section",
+    "title": "14  Chapter 13:",
+    "section": "14.1 ",
+    "text": "14.1"
+  },
+  {
+    "objectID": "chapter_13.html#section-1",
+    "href": "chapter_13.html#section-1",
+    "title": "14  Chapter 13:",
+    "section": "14.2 ",
+    "text": "14.2"
+  },
+  {
+    "objectID": "chapter_13.html#section-2",
+    "href": "chapter_13.html#section-2",
+    "title": "14  Chapter 13:",
+    "section": "14.3 ",
+    "text": "14.3"
+  },
+  {
+    "objectID": "chapter_13.html#section-3",
+    "href": "chapter_13.html#section-3",
+    "title": "14  Chapter 13:",
+    "section": "14.4 ",
+    "text": "14.4"
+  },
+  {
+    "objectID": "chapter_14.html#section",
+    "href": "chapter_14.html#section",
+    "title": "15  Chapter 14:",
+    "section": "15.1 ",
+    "text": "15.1"
+  },
+  {
+    "objectID": "chapter_14.html#section-1",
+    "href": "chapter_14.html#section-1",
+    "title": "15  Chapter 14:",
+    "section": "15.2 ",
+    "text": "15.2"
+  },
+  {
+    "objectID": "chapter_14.html#section-2",
+    "href": "chapter_14.html#section-2",
+    "title": "15  Chapter 14:",
+    "section": "15.3 ",
+    "text": "15.3"
+  },
+  {
+    "objectID": "chapter_14.html#section-3",
+    "href": "chapter_14.html#section-3",
+    "title": "15  Chapter 14:",
+    "section": "15.4 ",
+    "text": "15.4"
+  },
+  {
+    "objectID": "chapter_15.html#section",
+    "href": "chapter_15.html#section",
+    "title": "16  Chapter 15:",
+    "section": "16.1 ",
+    "text": "16.1"
+  },
+  {
+    "objectID": "chapter_15.html#section-1",
+    "href": "chapter_15.html#section-1",
+    "title": "16  Chapter 15:",
+    "section": "16.2 ",
+    "text": "16.2"
+  },
+  {
+    "objectID": "chapter_15.html#section-2",
+    "href": "chapter_15.html#section-2",
+    "title": "16  Chapter 15:",
+    "section": "16.3 ",
+    "text": "16.3"
+  },
+  {
+    "objectID": "chapter_15.html#section-3",
+    "href": "chapter_15.html#section-3",
+    "title": "16  Chapter 15:",
+    "section": "16.4 ",
+    "text": "16.4"
+  },
+  {
+    "objectID": "chapter_16.html#section",
+    "href": "chapter_16.html#section",
+    "title": "17  Chapter 16:",
+    "section": "17.1 ",
+    "text": "17.1"
+  },
+  {
+    "objectID": "chapter_16.html#section-1",
+    "href": "chapter_16.html#section-1",
+    "title": "17  Chapter 16:",
+    "section": "17.2 ",
+    "text": "17.2"
+  },
+  {
+    "objectID": "chapter_16.html#section-2",
+    "href": "chapter_16.html#section-2",
+    "title": "17  Chapter 16:",
+    "section": "17.3 ",
+    "text": "17.3"
+  },
+  {
+    "objectID": "chapter_16.html#section-3",
+    "href": "chapter_16.html#section-3",
+    "title": "17  Chapter 16:",
+    "section": "17.4 ",
+    "text": "17.4"
+  },
+  {
+    "objectID": "chapter_17.html#section",
+    "href": "chapter_17.html#section",
+    "title": "18  Chapter 17:",
+    "section": "18.1 ",
+    "text": "18.1"
+  },
+  {
+    "objectID": "chapter_17.html#section-1",
+    "href": "chapter_17.html#section-1",
+    "title": "18  Chapter 17:",
+    "section": "18.2 ",
+    "text": "18.2"
+  },
+  {
+    "objectID": "chapter_17.html#section-2",
+    "href": "chapter_17.html#section-2",
+    "title": "18  Chapter 17:",
+    "section": "18.3 ",
+    "text": "18.3"
+  },
+  {
+    "objectID": "chapter_17.html#section-3",
+    "href": "chapter_17.html#section-3",
+    "title": "18  Chapter 17:",
+    "section": "18.4 ",
+    "text": "18.4"
+  },
+  {
+    "objectID": "chapter_18.html#section",
+    "href": "chapter_18.html#section",
+    "title": "19  Chapter 18:",
+    "section": "19.1 ",
+    "text": "19.1"
+  },
+  {
+    "objectID": "chapter_18.html#section-1",
+    "href": "chapter_18.html#section-1",
+    "title": "19  Chapter 18:",
+    "section": "19.2 ",
+    "text": "19.2"
+  },
+  {
+    "objectID": "chapter_18.html#section-2",
+    "href": "chapter_18.html#section-2",
+    "title": "19  Chapter 18:",
+    "section": "19.3 ",
+    "text": "19.3"
+  },
+  {
+    "objectID": "chapter_18.html#section-3",
+    "href": "chapter_18.html#section-3",
+    "title": "19  Chapter 18:",
+    "section": "19.4 ",
+    "text": "19.4"
+  },
+  {
+    "objectID": "chapter_19.html#section",
+    "href": "chapter_19.html#section",
+    "title": "20  Chapter 19:",
+    "section": "20.1 ",
+    "text": "20.1"
+  },
+  {
+    "objectID": "chapter_19.html#section-1",
+    "href": "chapter_19.html#section-1",
+    "title": "20  Chapter 19:",
+    "section": "20.2 ",
+    "text": "20.2"
+  },
+  {
+    "objectID": "chapter_19.html#section-2",
+    "href": "chapter_19.html#section-2",
+    "title": "20  Chapter 19:",
+    "section": "20.3 ",
+    "text": "20.3"
+  },
+  {
+    "objectID": "chapter_19.html#section-3",
+    "href": "chapter_19.html#section-3",
+    "title": "20  Chapter 19:",
+    "section": "20.4 ",
+    "text": "20.4"
+  },
+  {
+    "objectID": "chapter_20.html#section",
+    "href": "chapter_20.html#section",
+    "title": "21  Chapter 20:",
+    "section": "21.1 ",
+    "text": "21.1"
+  },
+  {
+    "objectID": "chapter_20.html#section-1",
+    "href": "chapter_20.html#section-1",
+    "title": "21  Chapter 20:",
+    "section": "21.2 ",
+    "text": "21.2"
+  },
+  {
+    "objectID": "chapter_20.html#section-2",
+    "href": "chapter_20.html#section-2",
+    "title": "21  Chapter 20:",
+    "section": "21.3 ",
+    "text": "21.3"
+  },
+  {
+    "objectID": "chapter_20.html#section-3",
+    "href": "chapter_20.html#section-3",
+    "title": "21  Chapter 20:",
+    "section": "21.4 ",
+    "text": "21.4"
+  },
+  {
+    "objectID": "chapter_21.html#section",
+    "href": "chapter_21.html#section",
+    "title": "22  Chapter 21:",
+    "section": "22.1 ",
+    "text": "22.1"
+  },
+  {
+    "objectID": "chapter_21.html#section-1",
+    "href": "chapter_21.html#section-1",
+    "title": "22  Chapter 21:",
+    "section": "22.2 ",
+    "text": "22.2"
+  },
+  {
+    "objectID": "chapter_21.html#section-2",
+    "href": "chapter_21.html#section-2",
+    "title": "22  Chapter 21:",
+    "section": "22.3 ",
+    "text": "22.3"
+  },
+  {
+    "objectID": "chapter_21.html#section-3",
+    "href": "chapter_21.html#section-3",
+    "title": "22  Chapter 21:",
+    "section": "22.4 ",
+    "text": "22.4"
+  },
+  {
+    "objectID": "chapter_22.html#section",
+    "href": "chapter_22.html#section",
+    "title": "23  Chapter 22:",
+    "section": "23.1 ",
+    "text": "23.1"
+  },
+  {
+    "objectID": "chapter_22.html#section-1",
+    "href": "chapter_22.html#section-1",
+    "title": "23  Chapter 22:",
+    "section": "23.2 ",
+    "text": "23.2"
+  },
+  {
+    "objectID": "chapter_22.html#section-2",
+    "href": "chapter_22.html#section-2",
+    "title": "23  Chapter 22:",
+    "section": "23.3 ",
+    "text": "23.3"
+  },
+  {
+    "objectID": "chapter_22.html#section-3",
+    "href": "chapter_22.html#section-3",
+    "title": "23  Chapter 22:",
+    "section": "23.4 ",
+    "text": "23.4"
+  },
+  {
+    "objectID": "chapter_23.html#section",
+    "href": "chapter_23.html#section",
+    "title": "24  Chapter 23:",
+    "section": "24.1 ",
+    "text": "24.1"
+  },
+  {
+    "objectID": "chapter_23.html#section-1",
+    "href": "chapter_23.html#section-1",
+    "title": "24  Chapter 23:",
+    "section": "24.2 ",
+    "text": "24.2"
+  },
+  {
+    "objectID": "chapter_23.html#section-2",
+    "href": "chapter_23.html#section-2",
+    "title": "24  Chapter 23:",
+    "section": "24.3 ",
+    "text": "24.3"
+  },
+  {
+    "objectID": "chapter_23.html#section-3",
+    "href": "chapter_23.html#section-3",
+    "title": "24  Chapter 23:",
+    "section": "24.4 ",
+    "text": "24.4"
+  },
+  {
+    "objectID": "chapter_24.html#section",
+    "href": "chapter_24.html#section",
+    "title": "25  Chapter 24:",
+    "section": "25.1 ",
+    "text": "25.1"
+  },
+  {
+    "objectID": "chapter_24.html#section-1",
+    "href": "chapter_24.html#section-1",
+    "title": "25  Chapter 24:",
+    "section": "25.2 ",
+    "text": "25.2"
+  },
+  {
+    "objectID": "chapter_24.html#section-2",
+    "href": "chapter_24.html#section-2",
+    "title": "25  Chapter 24:",
+    "section": "25.3 ",
+    "text": "25.3"
+  },
+  {
+    "objectID": "chapter_24.html#section-3",
+    "href": "chapter_24.html#section-3",
+    "title": "25  Chapter 24:",
+    "section": "25.4 ",
+    "text": "25.4"
+  },
+  {
+    "objectID": "chapter_25.html#section",
+    "href": "chapter_25.html#section",
+    "title": "26  Chapter 25:",
+    "section": "26.1 ",
+    "text": "26.1"
+  },
+  {
+    "objectID": "chapter_25.html#section-1",
+    "href": "chapter_25.html#section-1",
+    "title": "26  Chapter 25:",
+    "section": "26.2 ",
+    "text": "26.2"
+  },
+  {
+    "objectID": "chapter_25.html#section-2",
+    "href": "chapter_25.html#section-2",
+    "title": "26  Chapter 25:",
+    "section": "26.3 ",
+    "text": "26.3"
+  },
+  {
+    "objectID": "chapter_25.html#section-3",
+    "href": "chapter_25.html#section-3",
+    "title": "26  Chapter 25:",
+    "section": "26.4 ",
+    "text": "26.4"
+  }
+]
